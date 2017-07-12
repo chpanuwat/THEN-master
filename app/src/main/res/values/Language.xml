@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="Language_arrays">
+        <item>เลือกภาษา</item>
         <item>Thai</item>
         <item>English</item>
         <item>French</item>
